@@ -1,4 +1,5 @@
-# SP2021-CS486-project
+#Logan Owens
+#SP2021-CS486-project
 Your code, deliverables, and reflections should all be contained in this repository. 
 You will track your progress using Issues and the Project board.
 You will post your documentation in the Wiki. 
