@@ -42,7 +42,7 @@ The idea behind creating “ethical” malware is like the idea behind creating 
 The “ethical” malware would perpetuate itself the same way as ransomware, to show users the ways one might get infected by real malware. This would also serve as a reminder that the user should be more careful and to not trust the idea that everything they download is exactly what they think it is.
 ## The Modality: 
 This will be similar to how ransomware will work. It will be contained in specific file types. This means this will be software based, unless the malware is spread through an infected physical drive that is plugged into the user’s computer.
-## Enthusiasm- 
+## Enthusiasm: 
 I'd give this one a 4. I would face the same adversity as with this as I would with the ransomware, but I like this idea more, since this is less destructive and more instructive to the user.
 
 
