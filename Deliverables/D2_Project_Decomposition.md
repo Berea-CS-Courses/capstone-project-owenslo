@@ -16,3 +16,9 @@
 
 
 I have ordered the components by how I perceived their importance. All the pieces of my project interact with one another. All of the components rely on *Fallout: New Vegas* and the G.E.C.K.
+
+# TO ADD
+- Character Stats
+- Actor Effects
+- Actor Values
+- Perks
