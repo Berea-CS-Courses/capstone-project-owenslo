@@ -4,6 +4,9 @@
 		 
 	 - Follower: *A follower is a specific type of NPC that accompanies the player on their adventures. These are, by nature, more complex than other NPCs, since they are expected to travel along with the player and assist them in their journeys.*
 	 - FaceGen: *Short for "Face Generation. This is a subsection for each specific NPC in the G.E.C.K., and it allows for each NPC's face and hair can be modified.*
+	 - Character Stats: *The stats in this game manage everything from how well an NPC can use certain types of weapons to how fast they are. Some stats are unimportant for NPCs, like Science, since they are only used by the player. *
+	 	- Actor Effects: *Actor effects are buffs and debuffs used on the player and NPCs. Actor effects are used in many different events throughout the game, like in consumables and the amount health gained from them, but in this instance, actor effects will be used to set up how perks will permanetly change some of the stats of the follower NPC.*
+	 		- Perks: *Perks are used primarily for the player to gain bonuses to their stats, to learn new skills, and to unlock special dialogue choices. NPCs can also have and gain perks, which is what I will be using perks for in this project.*
  - Narrative: *The story of the mod. Before I can begin setting up scripted events, I need to write a story for the npcs to be a part of.*
 	 - Quest: *This is where the story is implemented into the mod. The quest will handle certain encounters and how events in the story need to be handled and in what order they need to be handled. The quest making part of the mod will also contain the dialogue.*
 		 - Dialogue: *The dialogue of the mod will contain responses from NPCs involved in the quest and the player's response to them, if any. Some scripting is also handled in this phase, but nothing that would need its own script file. The dialogue I will create will be specifically for the NPCs in this mod, and will be set up to make sure only the NPCs of this mod use it.*
@@ -16,9 +19,3 @@
 
 
 I have ordered the components by how I perceived their importance. All the pieces of my project interact with one another. All of the components rely on *Fallout: New Vegas* and the G.E.C.K.
-
-# TO ADD
-- Character Stats
-- Actor Effects
-- Actor Values
-- Perks
