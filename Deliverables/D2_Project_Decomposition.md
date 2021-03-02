@@ -3,7 +3,7 @@
  - NPCS: *Non-player characters. Without these, the rest of the components are useless. All the other components of this mod will rely on the NPCs.*
 		 
 	 - Follower: *A follower is a specific type of NPC that accompanies the player on their adventures. These are, by nature, more complex than other NPCs, since they are expected to travel along with the player and assist them in their journeys.*
-	 - FaceGen: *Short for "Face Generation. This is a subsection for each specific NPC in the G.E.C.K., and it allows for each NPC's face and hair can be modified.*
+	 - FaceGen: *Short for "Face Generation." This is a subsection for each specific NPC in the G.E.C.K., and it allows for each NPC's face and hair can be modified.*
 	 - Character Stats: *The stats in this game manage everything from how well an NPC can use certain types of weapons to how fast they are. Some stats are unimportant for NPCs, like Science, since they are only used by the player.*
 	 	- Actor Effects: *Actor effects are buffs and debuffs used on the player and NPCs. Actor effects are used in many different events throughout the game, like in consumables and the amount health gained from them, but in this instance, actor effects will be used to set up how perks will permanetly change some of the stats of the follower NPC.*
 	 		- Perks: *Perks are used primarily for the player to gain bonuses to their stats, to learn new skills, and to unlock special dialogue choices. NPCs can also have and gain perks, which is what I will be using perks for in this project.*
