@@ -1,6 +1,6 @@
 # D2 Project Decomposition
 
- - NPCS: *Non-player characters. Without these, the rest of the components are useless. All the other components of this mod will rely on the NPCs.*
+ - NPCS: *Non-player/playable characters. Without these, the rest of the components are useless. All the other components of this mod will rely on the NPCs.*
 		 
 	 - Follower: *A follower is a specific type of NPC that accompanies the player on their adventures. These are, by nature, more complex than other NPCs, since they are expected to travel along with the player and assist them in their journeys.*
 	 - FaceGen: *Short for "Face Generation." This is a subsection for each specific NPC in the G.E.C.K., and it allows for each NPC's face and hair can be modified.*
