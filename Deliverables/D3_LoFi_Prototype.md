@@ -5,7 +5,7 @@
 ### Companion Firing
 ![Companion Firing](D3Images/D3Mockup4.png)
 
-## Exchanging quest-relative item
+### Exchanging quest-relative item
 ![Exchanging quest-relative item](D3Images/D3Mockup2.png)
 
 ### Exchanging general items
