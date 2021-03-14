@@ -14,4 +14,14 @@
 ### Quest Structure
 ![Storyboard](D3Images/D3Storyboard.png)
 
-## Process Reflection
+### Healing
+![Storyboard](D3Images/D3Mockup5.png)
+
+
+I used these styles of diagrams because I believe that they let me properly convey the intricacies of what is going on in the background. While you and I may see dialogue between two characters, you are missing the scripting that causes that dialogue to hold any sort of weight. It is also important to showcase how things like healing, exchanging quest-relative items, and exchanging general items work, since these systems are vital to interaction with the companion and the quest around them.
+
+## Reflection
+
+The process of creating my prototypes was difficult at first. For this type of project, I had never made a prototype before. But once I started to recognize which systems I wanted to prototype, creating the mockups became easier, since I had an idea in mind of what they should look like. Thanks to building this prototype, I have refreshed my knowledge of how the systems are designed and am better equipped to be building them. Also, now that I have a visual reference, I have something to compare my final design to.
+
+Fortunately, I have no lingering questions. I believe this prototyping assignment has prepared me adequately for the implementation and creation of the systems I will be working with.
