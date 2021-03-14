@@ -11,14 +11,16 @@
 ### Exchanging general items
 ![Exchanging general items](D3Images/D3Mockup3.png)
 
-### Quest Structure
-![Storyboard](D3Images/D3Storyboard.png)
-
 ### Healing
 ![Storyboard](D3Images/D3Mockup5.png)
 
+I used these styles of diagrams because I believe that they let me properly convey the intricacies of what is going on in the background. While you and I may see dialogue between two characters, you are missing the scripting that causes that dialogue to hold any sort of weight. It is also important to showcase how things like healing, exchanging quest-relative items, and exchanging general items work, since these systems are vital to interaction with the companion and the quest around them. For things like item exchange and healing, you will interact with these systems for as long as the companion is still hired and in your party.
 
-I used these styles of diagrams because I believe that they let me properly convey the intricacies of what is going on in the background. While you and I may see dialogue between two characters, you are missing the scripting that causes that dialogue to hold any sort of weight. It is also important to showcase how things like healing, exchanging quest-relative items, and exchanging general items work, since these systems are vital to interaction with the companion and the quest around them.
+### Quest Structure
+![Storyboard](D3Images/D3Storyboard.png)
+
+I created a flow chart for the story of the quest to better show the flow of how the quest is going to work. This is the "new" part of the project to me, and this flow chart helped me visualize what is happening when in the quest and what I will need to do in the project to reflect it.
+
 
 ## Reflection
 
