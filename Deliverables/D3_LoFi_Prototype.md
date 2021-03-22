@@ -33,9 +33,3 @@ I defined frequently used terms so my mockups are easier to understand.
 The process of creating my prototypes was difficult at first. For this type of project, I had never made a prototype before. But once I started to recognize which systems I wanted to prototype, creating the mockups became easier, since I had an idea in mind of what they should look like. Thanks to building this prototype, I have refreshed my knowledge of how the systems are designed and am better equipped to be building them. Also, now that I have a visual reference, I have something to compare my final design to.
 
 Fortunately, I have no lingering questions. I believe this prototyping assignment has prepared me adequately for the implementation and creation of the systems I will be working with.
-
-# D4 Midterm Documentation
-
-## Proof of Concept
-
-
