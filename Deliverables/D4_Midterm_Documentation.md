@@ -30,9 +30,8 @@ As I am performing well in my ability to solve issues and add functionality with
 ### How confident do you feel about your project now that you have created a working proof-of-concept?
 I feel pretty confident in my ability to do what I have set out to do. I am learning new things as I go along, but I feel resourceful enough to address any issues I may run into.
 
-
 ### Have you faced any significant challenges in the creation of your project so far? If so, what are they?
-I have an issue trying to get the quest to properly update to inform the player as to when they had found the notes. I also have an issue where I can continuously take the notes away from Mario and give the notes back to Mario.
+I have an issue trying to get the quest to properly update to inform the player as to when they had found the notes. I also have an issue where I can continuously take the notes away from Mario and give the notes back to Mario. I have been able to solve both of these issues.
 
 ### What do you need from instructors and teaching assistants to better help you implement, understand, or otherwise think about your project?
 I think everyone involved has been incredibly helpful and supportive so far. This has been me relearning how to understand something I already had some prior knowledge on, so just keep asking me questions about what I'm doing and I will have to keep pushing myself to make sure I understand what I am doing enough to answer those questions.
