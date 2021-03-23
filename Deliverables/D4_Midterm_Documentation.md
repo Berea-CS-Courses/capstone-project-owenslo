@@ -2,7 +2,62 @@
 
 ## Proof of Concept
 
+### Dialogue: Companion Firing
+![Companion Firing](D4Images/D4fire.png)
 
+### Dialogue: Goodbye
+![Goodbye](D4Images/D4Goodbye.png)
+
+### Dialogue: Greeting
+![Greeting](D4Images/D4greeting.png)
+
+### Dialogue: Healing
+![Heal](D4Images/D4heal.png)
+
+### Dialogue: Hire
+![Hire](D4Images/D4hire.png)
+
+### Dialogue: Inventory
+![Inventory](D4Images/D4inventory.png)
+
+### Dialogue: Wait
+![Wait](D4Images/D4wait.png)
+
+### Dialogue: Asking for Help
+![Needs Help](D4Images/D4marioneedshelp.png)
+
+### Dialogue: Asking for Help: Yes
+![Needs Help](D4Images/D4marioneedshelpyes.png)
+
+### Dialogue: Asking for Help: No
+![Needs Help](D4Images/D4marioneedshelpno.png)
+
+### Dialogue: Return the Notes
+![Returning the Notes](D4Images/D4marionotes.png)
+
+### Quest: Stage 5
+![QS5](D4Images/D4qs5.png)
+
+### Quest: Stage 10
+![QS10](D4Images/D4qs10.png)
+
+### Quest: Stage 20
+![QS20](D4Images/D4qs20.png)
+
+### Quest: Stage 30
+![QS30](D4Images/D4qs30.png)
+
+### Script: Mario Companion Script
+![Companion Script](D4Images/D4mariocompanionscript.png)
+
+### Script: Mario Trigger Script
+![Trigger Script](D4Images/D4mariotriggerscript.png)
+
+### Script: Update Quest on Notes Retrieval Script
+![Update Script](D4Images/D4marionotesupdatescript.png)
+
+### In Engine: Mario in Goodsprings
+![Mario in Goodsprings](D4Images/D4marioinengine.png)
 
 ## Concept Documentation
 
