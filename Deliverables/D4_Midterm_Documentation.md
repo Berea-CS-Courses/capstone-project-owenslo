@@ -78,6 +78,9 @@ This script updates the quest when the player collects the notes.
 ![Mario in Goodsprings](D4Images/D4marioinengine.png)
 This is a picture of Mario standing next to his marker while inside of the bounds of his trigger.
 
+### Video of Mod In-Game
+https://youtu.be/iIvr5e4eAS0
+
 ## Concept Documentation
 
 ### 1. What external software or tools are needed to run your proof-of-concept?
