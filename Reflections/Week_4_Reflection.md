@@ -3,6 +3,11 @@
 1. What have you accomplished this week? (Please list each accomplishment, and explain)
   * I have worked more on expanding an interior. I have made the interior accessible in game. I have moved several quest-important items and an NPC to the interior.
 
+![Interior](WeeklyScreenshots/WeekFourInteriorOne.png)
+![Interior](WeeklyScreenshots/WeekFourInteriorTwo.png)
+![Interior](WeeklyScreenshots/WeekFourInteriorThree.png)
+![Interior](WeeklyScreenshots/WeekFourInteriorFour.png)
+
 2. What challenges or difficulties did you face? If you solved them, how? If not, what have you learned so far? Have you sought help or other resources?
   * I have had to study for midterms and make time to complete them. I have two papers I am working on simultaneously.
 
