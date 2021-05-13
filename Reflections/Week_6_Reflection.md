@@ -1,7 +1,12 @@
-# Weekly Reflection- Week Five
+# Weekly Reflection- Week Six
 
 1. What have you accomplished this week? (Please list each accomplishment, and explain)
   * I have finished all of what I stated I would last week, except for the stretch goal, which I am cutting. These include decorations for the interiors, lighting for the interiors, and an indicator of outcome at the end of the quest in the form of a note.
+
+![Main Office Lighting](WeeklyScreenshots/WeekSixInterior1Lighting.png)
+![Mario's Office Lighting](WeeklyScreenshots/WeekSixInterior2Lighting.png)
+![Mario Fired Perk Note](WeeklyScreenshots/WeekSixQuestNote2.png)
+![Mario Promotion Perk Note](WeeklyScreenshots/WeekSixQuestNote1.png)
 
 2. What challenges or difficulties did you face? If you solved them, how? If not, what have you learned so far? Have you sought help or other resources?
   * I have had to begin preparing to move out at the end of the semester. I have been spending time with my friends since this will be the last time I see some of them.
